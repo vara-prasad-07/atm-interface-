@@ -7,7 +7,7 @@ class ATM:
         self.root = root
         self.root.title("ATM Banking System")
         self.root.geometry("400x400")
-        self.root.config(background='#1679AB')
+        self.root.config(background='#000C66')
 
         self.accounts = {"user123": {"pin": "1234", "balance": 1000 },"23211A04D9":{"pin":"04D9","balance":100}}
         self.current_user = None

@@ -41,5 +41,5 @@ The ATM Interface Project is designed with simplicity and practicality in mind. 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/atm-interface-project.git
+   https://github.com/vara-prasad-07/atm-interface-.git
    cd atm-interface-project
